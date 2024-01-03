@@ -1,4 +1,4 @@
-<h2><a href="">1153. Product Sales Analysis I</a></h2><p>Table: <code>Sales</code></p>
+<h2><a href="https://leetcode.com/problems/product-sales-analysis-i">1153. Product Sales Analysis I</a></h2><p>Table: <code>Sales</code></p>
 
 <pre>
 +-------------+-------+
