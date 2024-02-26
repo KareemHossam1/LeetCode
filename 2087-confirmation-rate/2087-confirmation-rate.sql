@@ -7,7 +7,7 @@ FROM (
         AND action = 'confirmed'
     GROUP BY s.user_id
           ) AS conf_table
-JOIN (
+JOIN ( 
     SELECT s.user_id, COUNT(action) requests
     FROM signups s
     LEFT JOIN confirmations c
