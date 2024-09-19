@@ -6,5 +6,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/KareemHossam1/LeetCode/tree/master/0596-classes-more-than-5-students) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/KareemHossam1/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
