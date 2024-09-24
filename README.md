@@ -10,4 +10,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/KareemHossam1/LeetCode/tree/master/0619-biggest-single-number) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/KareemHossam1/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1877-find-followers-count](https://github.com/KareemHossam1/LeetCode/tree/master/1877-find-followers-count) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/KareemHossam1/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
